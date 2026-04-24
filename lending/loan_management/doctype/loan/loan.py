@@ -23,9 +23,9 @@ from frappe.utils import (
 )
 from frappe.utils.caching import redis_cache
 
-import erpnext
-from erpnext.accounts.doctype.journal_entry.journal_entry import get_payment_entry
-from erpnext.accounts.general_ledger import process_gl_map
+import garperp as erpnext
+from garperp.accounts.doctype.journal_entry.journal_entry import get_payment_entry
+from garperp.accounts.general_ledger import process_gl_map
 
 from lending.loan_management.controllers.loan_controller import LoanController
 from lending.loan_management.doctype.loan_demand.loan_demand import create_loan_demand
@@ -1937,7 +1937,7 @@ def move_receivable_charges_to_suspense_ledger(
 def get_base_charge_amount(
 	charge_type, amount, company, loan, income_account, receivable_account, applicant
 ):
-	from erpnext import get_default_currency
+	from garperp import get_default_currency
 
 	si = frappe.get_doc(
 		{

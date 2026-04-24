@@ -9,7 +9,7 @@ from frappe.query_builder.functions import Sum
 from frappe.tests import IntegrationTestCase
 from frappe.utils import add_days, date_diff, flt, getdate
 
-from erpnext.selling.doctype.customer.test_customer import get_customer_dict
+from garperp.selling.doctype.customer.test_customer import get_customer_dict
 
 from lending.loan_management.doctype.loan_repayment.loan_repayment import calculate_amounts
 from lending.loan_management.doctype.process_loan_classification.process_loan_classification import (

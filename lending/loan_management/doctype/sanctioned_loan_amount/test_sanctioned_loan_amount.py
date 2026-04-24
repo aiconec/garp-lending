@@ -35,7 +35,7 @@ class TestSanctionedLoanAmount(unittest.TestCase):
 		create_loan_security_price("Test Security 2", 250, "Nos", nowdate(), add_days(nowdate(), 1), update_if_existing=True)
 
 	def test_sanctioned_loan_amount_limit_for_secured_loan(self):
-		from erpnext.selling.doctype.customer.test_customer import get_customer_dict
+		from garperp.selling.doctype.customer.test_customer import get_customer_dict
 
 		pledge = [
 			{

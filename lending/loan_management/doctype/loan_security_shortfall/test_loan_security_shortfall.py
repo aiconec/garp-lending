@@ -123,7 +123,7 @@ class TestLoanSecurityShortfall(unittest.TestCase):
 		)
 
 	def test_security_shortfall_at_customer_level_security_pledging(self):
-		from erpnext.selling.doctype.customer.test_customer import get_customer_dict
+		from garperp.selling.doctype.customer.test_customer import get_customer_dict
 
 		pledge = [
 			{

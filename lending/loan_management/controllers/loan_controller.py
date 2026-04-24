@@ -1,7 +1,7 @@
 import frappe
 
-from erpnext.accounts.general_ledger import make_gl_entries
-from erpnext.controllers.accounts_controller import AccountsController
+from garperp.accounts.general_ledger import make_gl_entries
+from garperp.controllers.accounts_controller import AccountsController
 
 from lending.loan_management.utils import loan_accounting_enabled
 

@@ -8,7 +8,7 @@ from frappe.query_builder import DocType
 from frappe.query_builder import functions as fn
 from frappe.utils import cint, flt, getdate
 
-import erpnext
+import garperp as erpnext
 
 from lending.loan_management.controllers.loan_controller import LoanController
 from lending.loan_management.doctype.loan_repayment.loan_repayment import (

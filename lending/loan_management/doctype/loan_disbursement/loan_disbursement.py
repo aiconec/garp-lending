@@ -18,9 +18,9 @@ from frappe.utils import (
 	nowdate,
 )
 
-import erpnext
-from erpnext.accounts.general_ledger import process_gl_map
-from erpnext.controllers.sales_and_purchase_return import make_return_doc
+import garperp as erpnext
+from garperp.accounts.general_ledger import process_gl_map
+from garperp.controllers.sales_and_purchase_return import make_return_doc
 
 from lending.loan_management.controllers.loan_controller import LoanController
 from lending.loan_management.doctype.loan.loan import get_cyclic_date
