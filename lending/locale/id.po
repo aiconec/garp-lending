@@ -564,7 +564,7 @@ msgstr ""
 #: lending/loan_management/report/past_cashflow_report/past_cashflow_report.js:37
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Applicant"
-msgstr ""
+msgstr "Pemohon"
 
 #. Label of the applicant (Dynamic Link) field in DocType 'Loan Balance
 #. Adjustment'
@@ -663,7 +663,7 @@ msgstr ""
 #: lending/loan_management/report/loan_security_status/loan_security_status.js:17
 #: lending/loan_management/report/past_cashflow_report/past_cashflow_report.js:23
 msgid "Applicant Type"
-msgstr ""
+msgstr "Tipe Pemohon"
 
 #. Name of a report
 #. Label of a Link in the Lending Workspace
@@ -953,7 +953,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_disbursement_charge/loan_disbursement_charge.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Charge"
-msgstr ""
+msgstr "Biaya"
 
 #. Label of the charge_accounts_section (Section Break) field in DocType 'Loan
 #. Charges'
@@ -1003,7 +1003,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_disbursement/loan_disbursement.json
 #: lending/loan_management/doctype/loan_product/loan_product.json
 msgid "Charges"
-msgstr ""
+msgstr "Biaya"
 
 #. Option for the 'Loan Repayment Type' (Select) field in DocType 'Loan
 #. Adjustment Detail'
@@ -1680,7 +1680,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_disbursement/loan_disbursement.json
 #: lending/loan_management/report/loan_outstanding_report/loan_outstanding_report.py:51
 msgid "Disbursement Date"
-msgstr ""
+msgstr "Tanggal Pencairan"
 
 #. Label of the section_break_7 (Section Break) field in DocType 'Loan
 #. Disbursement'
@@ -1705,7 +1705,7 @@ msgstr ""
 #. Label of a Card Break in the Lending Workspace
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Disbursement and Repayment"
-msgstr ""
+msgstr "Pencairan dan Pembayaran"
 
 #: lending/loan_management/doctype/loan_disbursement/loan_disbursement.py:414
 msgid "Disbursement date is out of approved limit dates"
@@ -2409,7 +2409,7 @@ msgstr ""
 #: lending/loan_management/report/past_cashflow_report/past_cashflow_report.py:14
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan"
-msgstr ""
+msgstr "Pinjaman"
 
 #. Label of the loan (Link) field in DocType 'Loan Security Shortfall'
 #. Label of the loan (Link) field in DocType 'Process Loan Classification'
@@ -2435,7 +2435,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_product/loan_product.json
 #: lending/loan_management/doctype/loan_repayment/loan_repayment.json
 msgid "Loan Account"
-msgstr ""
+msgstr "Akun Pinjaman"
 
 #: lending/loan_management/doctype/loan_product/loan_product.py:117
 msgid "Loan Account and Payment Account cannot be same"
@@ -2502,7 +2502,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_security_shortfall/loan_security_shortfall.json
 #: lending/loan_management/report/loan_outstanding_report/loan_outstanding_report.py:42
 msgid "Loan Amount"
-msgstr ""
+msgstr "Jumlah Pinjaman"
 
 #. Label of the principal_amount_details_section (Section Break) field in
 #. DocType 'Loan Restructure'
@@ -2540,7 +2540,7 @@ msgstr ""
 #: lending/loan_management/workspace/lending/lending.json
 #: lending/public/js/custom_customer.js:5
 msgid "Loan Application"
-msgstr ""
+msgstr "Permohonan Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_origination/doctype/loan_application_document/loan_application_document.json
@@ -2555,14 +2555,14 @@ msgstr ""
 #. Header text in the Applications Workspace
 #: lending/loan_management/workspace/applications/applications.json
 msgid "Loan Applications"
-msgstr ""
+msgstr "Permohonan Pinjaman"
 
 #. Name of a DocType
 #. Label of a Link in the Lending Workspace
 #: lending/loan_management/doctype/loan_balance_adjustment/loan_balance_adjustment.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Balance Adjustment"
-msgstr ""
+msgstr "Penyesuaian Saldo Pinjaman"
 
 #. Option for the 'Event' (Select) field in DocType 'Loan Limit Change Log'
 #: lending/loan_management/doctype/loan_limit_change_log/loan_limit_change_log.json
@@ -2578,7 +2578,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_product/loan_product.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Category"
-msgstr ""
+msgstr "Kategori Pinjaman"
 
 #. Label of the loan_category_code (Data) field in DocType 'Loan Category'
 #: lending/loan_management/doctype/loan_category/loan_category.json
@@ -2656,7 +2656,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_repayment_detail/loan_repayment_detail.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Demand"
-msgstr ""
+msgstr "Permintaan Pinjaman"
 
 #. Label of the loan_demand_details_section (Section Break) field in DocType
 #. 'Loan Demand'
@@ -2728,7 +2728,7 @@ msgstr ""
 #: lending/loan_management/report/loan_outstanding_report/loan_outstanding_report.py:44
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Disbursement"
-msgstr ""
+msgstr "Pencairan Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_management/doctype/loan_disbursement_charge/loan_disbursement_charge.json
@@ -2767,7 +2767,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_interest_accrual/loan_interest_accrual.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Interest Accrual"
-msgstr ""
+msgstr "Bunga Pinjaman Akrual"
 
 #. Header text in the Interest Accruals Workspace
 #: lending/loan_management/workspace/interest_accruals/interest_accruals.json
@@ -2820,7 +2820,7 @@ msgstr ""
 #: lending/loan_management/doctype/process_loan_security_shortfall/process_loan_security_shortfall.json
 #: lending/loan_management/doctype/sanctioned_loan_amount/sanctioned_loan_amount.json
 msgid "Loan Manager"
-msgstr ""
+msgstr "Manajer Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_management/doctype/loan_npa_log/loan_npa_log.json
@@ -2830,7 +2830,7 @@ msgstr ""
 #. Name of a Workspace
 #: lending/loan_origination/workspace/loan_origination/loan_origination.json
 msgid "Loan Origination"
-msgstr ""
+msgstr "Originasi Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_origination/doctype/loan_origination_settings/loan_origination_settings.json
@@ -2929,7 +2929,7 @@ msgstr ""
 #. Label of a Card Break in the Lending Workspace
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Processes"
-msgstr ""
+msgstr "Proses Pinjaman"
 
 #. Label of the loan_product (Link) field in DocType 'Loan'
 #. Label of the loan_product (Link) field in DocType 'Loan Application'
@@ -2971,7 +2971,7 @@ msgstr ""
 #: lending/loan_management/report/past_cashflow_report/past_cashflow_report.py:17
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Product"
-msgstr ""
+msgstr "Produk Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_management/doctype/loan_product_loan_partner/loan_product_loan_partner.json
@@ -2984,7 +2984,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_refund/loan_refund.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Refund"
-msgstr ""
+msgstr "Pengembalian Pinjaman"
 
 #. Option for the 'Reference Document Type' (Select) field in DocType 'Loan
 #. Balance Adjustment'
@@ -3007,7 +3007,7 @@ msgstr ""
 #: lending/loan_management/report/loan_repayment_and_closure/loan_repayment_and_closure.py:19
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Repayment"
-msgstr ""
+msgstr "Pembayaran Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_management/doctype/loan_repayment_charges/loan_repayment_charges.json
@@ -3050,7 +3050,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_repayment_schedule/loan_repayment_schedule.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Repayment Schedule"
-msgstr ""
+msgstr "Jadwal Pembayaran Pinjaman"
 
 #. Label of the loan_repayment_schedule_detail (Data) field in DocType 'Loan
 #. Interest Accrual'
@@ -3094,7 +3094,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_restructure/loan_restructure.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Restructure"
-msgstr ""
+msgstr "Restrukturisasi Pinjaman"
 
 #. Label of the loan_restructure_count (Int) field in DocType 'Loan'
 #: lending/loan_management/doctype/loan/loan.json
@@ -3141,7 +3141,7 @@ msgstr ""
 #: lending/loan_management/report/loan_security_status/loan_security_status.py:29
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security"
-msgstr ""
+msgstr "Jaminan Pinjaman"
 
 #. Name of a DocType
 #. Label of a Link in the Lending Workspace
@@ -3150,7 +3150,7 @@ msgstr ""
 #: lending/loan_management/report/loan_security_status/loan_security_status.py:18
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Assignment"
-msgstr ""
+msgstr "Penugasan Jaminan Pinjaman"
 
 #: lending/loan_management/doctype/loan_application/loan_application.py:343
 msgid "Loan Security Assignment Created : {0}"
@@ -3176,7 +3176,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_security_deposit/loan_security_deposit.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Deposit"
-msgstr ""
+msgstr "Deposit Jaminan Pinjaman"
 
 #. Label of the loan_security_details_section (Section Break) field in DocType
 #. 'Loan Application'
@@ -3226,7 +3226,7 @@ msgstr ""
 #: lending/loan_management/report/loan_security_status/loan_security_status.py:37
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Price"
-msgstr ""
+msgstr "Harga Jaminan Pinjaman"
 
 #: lending/loan_management/doctype/loan_security_price/loan_security_price.py:50
 msgid "Loan Security Price overlapping with {0}"
@@ -3238,7 +3238,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_security_release/loan_security_release.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Release"
-msgstr ""
+msgstr "Pelepasan Jaminan Pinjaman"
 
 #: lending/loan_management/doctype/loan_security_release/loan_security_release.py:113
 msgid "Loan Security Release Error"
@@ -3249,7 +3249,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_security_shortfall/loan_security_shortfall.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Shortfall"
-msgstr ""
+msgstr "Kekurangan Jaminan Pinjaman"
 
 #. Name of a report
 #. Label of a Link in the Lending Workspace
@@ -3275,7 +3275,7 @@ msgstr ""
 #: lending/loan_management/report/loan_security_exposure/loan_security_exposure.py:45
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Security Type"
-msgstr ""
+msgstr "Jenis Jaminan Pinjaman"
 
 #: lending/loan_management/report/loan_security_status/loan_security_status.py:44
 msgid "Loan Security Value"
@@ -3314,7 +3314,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_transfer/loan_transfer.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Transfer"
-msgstr ""
+msgstr "Transfer Pinjaman"
 
 #. Name of a DocType
 #: lending/loan_management/doctype/loan_transfer_detail/loan_transfer_detail.json
@@ -3324,7 +3324,7 @@ msgstr ""
 #. Label of a Card Break in the Lending Workspace
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Transfers"
-msgstr ""
+msgstr "Transfer Pinjaman"
 
 #. Name of a DocType
 #. Label of a Link in the Lending Workspace
@@ -3332,7 +3332,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_write_off/loan_write_off.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Loan Write Off"
-msgstr ""
+msgstr "Penghapusan Pinjaman"
 
 #. Description of the 'Auto Write Off Amount ' (Currency) field in DocType
 #. 'Loan Product'
@@ -3599,7 +3599,7 @@ msgstr ""
 #. Label of a chart in the Lending Workspace
 #: lending/loan_management/workspace/lending/lending.json
 msgid "New Loans"
-msgstr ""
+msgstr "Pinjaman Baru"
 
 #. Label of the new_monthly_repayment_amount (Currency) field in DocType 'Loan
 #. Restructure'
@@ -4477,7 +4477,7 @@ msgstr ""
 #: lending/loan_management/doctype/process_loan_classification/process_loan_classification.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Process Loan Classification"
-msgstr ""
+msgstr "Proses Klasifikasi Pinjaman"
 
 #. Label of the process_loan_demand (Link) field in DocType 'Loan Demand'
 #. Name of a DocType
@@ -4486,7 +4486,7 @@ msgstr ""
 #: lending/loan_management/doctype/process_loan_demand/process_loan_demand.json
 #: lending/loan_management/workspace/lending/lending.json
 msgid "Process Loan Demand"
-msgstr ""
+msgstr "Proses Permintaan Pinjaman"
 
 #. Label of the process_loan_interest_accrual (Link) field in DocType 'Loan
 #. Interest Accrual'
@@ -4864,7 +4864,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_repayment_schedule/loan_repayment_schedule.json
 #: lending/loan_management/doctype/loan_restructure/loan_restructure.json
 msgid "Repayment Method"
-msgstr ""
+msgstr "Metode Pembayaran"
 
 #. Label of the repayment_periods (Int) field in DocType 'Loan Repayment
 #. Schedule'
@@ -5337,7 +5337,7 @@ msgstr ""
 #: lending/loan_management/doctype/loan_disbursement/loan_disbursement.json
 #: lending/loan_management/report/loan_outstanding_report/loan_outstanding_report.py:124
 msgid "Tenure"
-msgstr ""
+msgstr "Tenor"
 
 #. Label of the tenure_post_restructure (Int) field in DocType 'Loan'
 #: lending/loan_management/doctype/loan/loan.json
