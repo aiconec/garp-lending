@@ -1,17 +1,17 @@
 app_name = "lending"
-app_title = "Lending"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = "Open Source Lending software"
-app_email = "contact@frappe.io"
+app_title = "GARP Lending"
+app_publisher = "Aiconec GARP"
+app_description = "GARP ERP Lending & Loan Management"
+app_email = "engineering@aiconec.com"
 app_license = "GNU General Public License (v3)"
-required_apps = ["erpnext"]
-app_logo_url = "/assets/lending/images/frappe-lending-logo.svg"
+required_apps = ["garperp"]
+app_logo_url = "/assets/garperp/images/aiconec-logo.svg"
 
 add_to_apps_screen = [
 	{
 		"name": "lending",
-		"logo": "/assets/lending/images/frappe-lending-logo.svg",
-		"title": "Lending",
+		"logo": "/assets/garperp/images/garperp-logo-blue.png",
+		"title": "GARP Lending",
 		"route": "/app/lending",
 		"has_permission": "lending.utils.check_app_permission",
 	}
