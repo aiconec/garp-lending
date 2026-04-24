@@ -4,7 +4,7 @@ app_publisher = "Aiconec GARP"
 app_description = "GARP ERP Lending & Loan Management"
 app_email = "engineering@aiconec.com"
 app_license = "GNU General Public License (v3)"
-required_apps = ["garperp"]
+required_apps = []
 app_logo_url = "/assets/garperp/images/aiconec-logo.svg"
 
 add_to_apps_screen = [
