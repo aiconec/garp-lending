@@ -10,7 +10,7 @@ app_logo_url = "/assets/garperp/images/aiconec-logo.svg"
 add_to_apps_screen = [
 	{
 		"name": "lending",
-		"logo": "/assets/garperp/images/garperp-logo-blue.png",
+		"logo": "/assets/lending/images/garp-lending-icon.svg",
 		"title": "GARP Lending",
 		"route": "/app/lending",
 		"has_permission": "lending.utils.check_app_permission",
