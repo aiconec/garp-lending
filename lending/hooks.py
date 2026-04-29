@@ -1,5 +1,5 @@
 app_name = "lending"
-app_title = "GARP Lending"
+app_title = "Lending"
 app_publisher = "Aiconec GARP"
 app_description = "GARP ERP Lending & Loan Management"
 app_email = "engineering@aiconec.com"
@@ -11,7 +11,7 @@ add_to_apps_screen = [
 	{
 		"name": "lending",
 		"logo": "/assets/lending/images/garp-lending-icon.svg",
-		"title": "GARP Lending",
+		"title": "Lending",
 		"route": "/app/lending",
 		"has_permission": "lending.utils.check_app_permission",
 	}
