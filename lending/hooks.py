@@ -1,5 +1,6 @@
 app_name = "lending"
-app_title = "Lending"
+app_title = "GARP Lending"
+app_icon_title = "Lending"
 app_publisher = "Aiconec GARP"
 app_description = "GARP ERP Lending & Loan Management"
 app_email = "engineering@aiconec.com"
