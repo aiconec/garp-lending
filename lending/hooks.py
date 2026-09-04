@@ -5,6 +5,8 @@ app_publisher = "Aiconec GARP"
 app_description = "GARP ERP Lending & Loan Management"
 app_email = "engineering@aiconec.com"
 app_license = "GNU General Public License (v3)"
+# AGPL/GPL source offer: the corresponding source of THIS modified version.
+source_link = "https://github.com/aiconec/garp-lending"
 required_apps = []
 app_logo_url = "/assets/lending/images/garp-lending-icon.svg"
 
